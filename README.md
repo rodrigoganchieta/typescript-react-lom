@@ -5,8 +5,8 @@ Projeto Pomodoro desenvolvido no curso de JavaScript e TypeScript do básico ao 
 ### Configurações:
 
 - Instale e configure o Node.js
-- Npm install
-- Npm start
+- npm install
+- npm start
 
 Para mais detalhes entre em contato.
 
